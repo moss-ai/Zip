@@ -29,7 +29,7 @@ internal class ZipUtilities {
         A.txt
         B.txt
     */
-    let includeRootDirectory = true
+    let includeRootDirectory = false
 
     // File manager
     let fileManager = FileManager.default
